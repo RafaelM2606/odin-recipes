@@ -6,5 +6,5 @@ skills acquired in The Odin Project which are:
 -Add unordered and ordered lists
 -Create html files and its structure
 -Upload repositories to github with git
--Add paragraphs, use <strong>, <em>, and other tags.
+-Add paragraphs, use "<strong>", "<em>", and other tags.
 -Add attributes to the html tags
