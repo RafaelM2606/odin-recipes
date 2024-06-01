@@ -1,0 +1,20 @@
+h1, ul
+{
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    background-color: aqua;
+}
+ul{
+    font-weight: bold;
+    font-size: large;
+}
+#yak{
+    color: #ff0;
+}
+#gab{
+    color: #a52;
+}
+#pas{
+    color: #008000;
+}

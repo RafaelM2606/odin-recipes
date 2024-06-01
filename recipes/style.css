@@ -1,0 +1,22 @@
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#yakimeshi, .yaki{
+    background-color: yellow;
+}
+#garlic, .garlb{
+    background-color: brown;
+}
+#pasta, .pastas{
+    background-color: green;
+}
+.imag{
+    width: 500px;
+    height: auto;
+}
+h3{
+    font-weight: bold;
+}
+.home{
+    background-color: aqua;
+}
